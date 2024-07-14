@@ -9,7 +9,7 @@
                 "no_violation": 0,
                 "violation": 0,
                 "total": 0,
-                "percentage_violation": null
+                "percentage_violation": 0.0
             },
             "geometry": {
                 "type": "MultiPolygon",
